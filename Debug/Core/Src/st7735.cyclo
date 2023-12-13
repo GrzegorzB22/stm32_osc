@@ -1,0 +1,10 @@
+../Core/Src/st7735.c:35:13:st7735_data8	1
+../Core/Src/st7735.c:43:13:st7735_data16	1
+../Core/Src/st7735.c:27:13:st7735_cmd	1
+../Core/Src/st7735.c:102:6:ST7735_Draw_Rectangle	2
+../Core/Src/st7735.c:111:6:ST7735_Draw_Pixel	1
+../Core/Src/st7735.c:116:6:ST7735_Draw_VerticalLine	2
+../Core/Src/st7735.c:122:6:ST7735_Draw_HorizontalLine	2
+../Core/Src/st7735.c:82:6:ST7735_Init	5
+../Core/Src/st7735.c:128:6:ST7735_Draw_FFT	5
+../Core/Src/st7735.c:159:6:ST7735_Draw_Voltage	5
